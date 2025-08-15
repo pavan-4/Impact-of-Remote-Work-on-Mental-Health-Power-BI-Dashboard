@@ -1,4 +1,4 @@
-readme_content = """
+
 # Impact of Remote Work on Mental Health – Power BI Dashboard
 
 ## 📌 Project Overview

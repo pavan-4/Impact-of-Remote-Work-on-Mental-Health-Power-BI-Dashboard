@@ -1,5 +1,5 @@
 
-![Impact of Remote Work Dashboard]({dashboard_screenshot.png})
+![Impact of Remote Work Dashboard](dashboard_screenshot.png)
 # Impact of Remote Work on Mental Health – Power BI Dashboard
 
 ## 📌 Project Overview

@@ -25,4 +25,3 @@ An **executive-ready interactive dashboard** enabling HR and management teams to
 - Compare mental health and productivity across work models  
 - Support data-driven workplace policy decisions  
 
-## 📂 Repository Structure

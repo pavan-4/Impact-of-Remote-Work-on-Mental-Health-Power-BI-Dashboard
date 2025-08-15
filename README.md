@@ -1,5 +1,5 @@
-screenshot_filename = "dashboard_screenshot.png"
-![Impact of Remote Work Dashboard]({screenshot_filename})
+
+![Impact of Remote Work Dashboard]({dashboard_screenshot.png})
 # Impact of Remote Work on Mental Health – Power BI Dashboard
 
 ## 📌 Project Overview
